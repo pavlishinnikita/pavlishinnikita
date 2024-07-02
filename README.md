@@ -14,8 +14,6 @@
 
 - 🛠️ I’m currently working with **Laravel, Symfony, Yii2, Docker, Redis**
 
-- 📡 I’m currently learning **Vue, React, PgSql**
-
 - 💬 [Ask](mailto:pavlishin.nikita@gmail.com) me about **coworking, PHP, backend or any other things**
 
 <hr />
