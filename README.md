@@ -10,11 +10,11 @@
 </h3>
 
 <!-- INFO BLOCK -->
-- 🔭 I’m currently working in [ClickDealer](https://clickdealer.com)
+- I’m currently working in [ClickDealer](https://clickdealer.com)
 
-- 🛠️ I’m currently working with **Laravel, Symfony, Yii2, Docker, Redis**
+- I’m currently working with **Laravel, Symfony, Yii2, Docker, Redis**
 
-- 💬 [Ask](mailto:pavlishin.nikita@gmail.com) me about **coworking, PHP, backend or any other things**
+-  [Ask](mailto:pavlishin.nikita@gmail.com) me about **coworking, PHP, backend or any other things**
 
 <hr />
 
