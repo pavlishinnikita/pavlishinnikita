@@ -1,3 +1,4 @@
+<!--
 ![MasterHead](/images/person.jpg)
 
 
@@ -107,3 +108,4 @@
         <a href="mailto:pavlishin.nikita@gmail.com">📧 Email</a>
     </div>
 </p>
+-->
